@@ -18,7 +18,7 @@ import java.util.Scanner;
 	(출력)
 	오름차순으로 정렬된 자연수를 배열로 출력한다.
  */
-public class Test1_3 {
+public class Test03 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("자연수 입력:");

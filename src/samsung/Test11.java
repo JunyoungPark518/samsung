@@ -23,7 +23,7 @@ package samsung;
 		4) 출력
 			두 도시 i,j의 연결의 최단거리(가중치가 가장 작은 경로)의 가중치를 출력한다.
  */
-public class Test3_2 {
+public class Test11 {
 	public static void main(String[] args) {
 		
 	}

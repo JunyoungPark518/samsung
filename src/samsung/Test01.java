@@ -18,7 +18,7 @@ import java.util.Scanner;
 	입력된 정수를 오름차순으로 정렬하고, 각 정수 밑에 학점을 출력한다.
 	3번째 학생의 학점을 출력한다.
  */
-public class Test1_1 {
+public class Test01 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int score[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, grade[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};

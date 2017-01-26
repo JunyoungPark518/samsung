@@ -19,7 +19,7 @@ import java.util.Scanner;
 	출력)
 	암호화된 문자를 출력한다. Character 형을 사용한다.
  */
-public class Test2_4 {
+public class Test08 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("키 값 정수를 입력하세요.");

@@ -23,7 +23,7 @@ import java.util.Scanner;
 			입력한 범위 내에 모든 소수의 수를 출력한다. (각 줄마다 10개가 나오면 다음 줄로 이동하여 출력한다.)
 			마지막에 한 줄을 띄어 주어진 범위 내에 있는 소수의 개수를 출력한다.
  */
-public class Test4_1 {
+public class Test13 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("정수 N,M을 입력:");

@@ -22,7 +22,7 @@ import java.util.Scanner;
 		
 		출력) 동전의 종류별로 몇개를 거스름돈으로 받는지를 출력한다. (즉, 동전의 종류의 개수만큼의 정수가 출력된다.)
  */
-public class Test3_1 {
+public class Test10 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String input = sc.next();

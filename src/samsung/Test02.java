@@ -17,7 +17,7 @@ import java.util.Scanner;
 	가장 작은 수부터 정렬하여 나열한다.
 	추가로 입력된 정수의 위치를 출력한다.
  */
-public class Test1_2 {
+public class Test02 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int[] array = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }, temp = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};

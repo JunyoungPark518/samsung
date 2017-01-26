@@ -22,9 +22,9 @@ import java.util.Scanner;
 	각 노드의 레벨에 맞게 '-'으로 간격을 맞추고 (노드)문자를 출력한다. 
 	예) 루트는 A, 1레벨은 -B, 2레벨은 --C 순으로 출력
  */
-public class Test2_2 {
+public class Test06 {
 	public static Node root;
-	public Test2_2() {
+	public Test06() {
 		this.root = null;
 	}
 	
@@ -84,7 +84,7 @@ public class Test2_2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String parent = "", child = "";
-		Test2_2 tree = new Test2_2();
+		Test06 tree = new Test06();
 		while(true) {
 			System.out.println("순서대로 두 개의 노드를 입력하세요[예)A-B]:");
 			parent = sc.next();

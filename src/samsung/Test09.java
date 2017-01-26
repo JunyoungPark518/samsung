@@ -19,7 +19,7 @@ import java.util.Scanner;
 	
 	출력 형태) 시작 정점, 인접한 정점 형태로 반복하여 출력한다.
  */
-public class Test2_5 {
+public class Test09 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("숫자 사이에 ','를 두면서 입력하세요.");

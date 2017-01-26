@@ -22,7 +22,7 @@ import java.util.Scanner;
 	개수를 출력하라.
 
  */
-public class Test1_4 {
+public class Test04 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("당첨번호 10개 입력");

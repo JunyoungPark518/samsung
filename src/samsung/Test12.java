@@ -27,7 +27,7 @@ import java.util.Scanner;
 		5) 출력
 			양의 정수 3개(서비스 받은 고객, 대기행렬에 남아 있는 고객 수, 최대 대기 고객 수)를 출력한다.
  */
-public class Test3_3 {
+public class Test12 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String input = sc.next();

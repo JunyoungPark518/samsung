@@ -20,7 +20,7 @@ import java.util.Scanner;
 	(출력)
 	선택된 자연수 배열에서 원하는 위치를 출력한다.
  */
-public class Test2_1 {
+public class Test05 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int input = 0;
