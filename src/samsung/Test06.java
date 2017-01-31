@@ -23,6 +23,7 @@ import java.util.Scanner;
 	예) 루트는 A, 1레벨은 -B, 2레벨은 --C 순으로 출력
  */
 public class Test06 {
+	// 풀다가 패스
 	public static Node root;
 	public Test06() {
 		this.root = null;

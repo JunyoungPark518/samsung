@@ -1,5 +1,7 @@
 package samsung;
 
+import java.util.Scanner;
+
 /**
 @FILE  : Test14.java
 @DATE  : 2017. 1. 26.
@@ -27,6 +29,18 @@ package samsung;
  */
 public class Test14 {
 	public static void main(String[] args) {
-		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("3이상의 카운트 입력:");
+		int count = sc.nextInt();
+		int a = 1, b = 1, c = 0;
+		if(count>2) {
+			System.out.print(a + " " + b + " ");
+			for(int i=0; i<count-2; i++) {
+				c = a + b;
+				System.out.print(c + " ");
+				a = b;
+				b = c;
+			}
+		}
 	}
 }
